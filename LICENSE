@@ -23,4 +23,8 @@ SOFTWARE.
 
 This project includes third-party libraries, each of which is licensed under its own terms.
 
-- **Ogg Vorbis**: Licensed under the BSD License. See `thirdparty/ogg-vorbis/LICENSE` for details.
+- BGFX: Licensed under the BSD License. See `thirdparty/bgfx/LICENSE` for details.
+- Jolt Physics: Licensed under the MIT License. See `thirdparty/jolt/LICENSE` for details.
+- Assimp: Licensed under the BSD License. See `thirdparty/assimp/LICENSE` for details.
+- Dear ImGui: Licensed under the MIT License. See `thirdparty/imgui/LICENSE` for details.
+- Ogg Vorbis: Licensed under the BSD License. See `thirdparty/ogg-vorbis/LICENSE` for details. 
