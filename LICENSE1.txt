@@ -1,0 +1,37 @@
+MIT License
+
+Copyright (c) 2023 Omio Rahman
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+## Third-Party Libraries
+
+This project includes third-party libraries, each of which is licensed under its own terms.
+
+- BGFX: Licensed under the BSD License. See `thirdparty/bgfx/LICENSE` for details.
+- Jolt Physics: Licensed under the MIT License. See `thirdparty/jolt/LICENSE` for details.
+- Assimp: Licensed under the BSD License. See `thirdparty/assimp/LICENSE` for details.
+- Dear ImGui: Licensed under the MIT License. See `thirdparty/imgui/LICENSE` for details.
+- SoLoud: Licensed under the ZLib License. See `thirdparty/soloud/LICENSE` for details.
+- TinyXML2: Licensed under the ZLib License. See `thirdparty/tinyxml2/LICENSE` for details.
+- Box2DLite: Licensed under the MIT License. See `thirdparty/box2dlite/LICENSE` for details.
+- STB: Public domain. See `thirdparty/stb/LICENSE` for details.
+- PhysFS: Licensed under the ZLib License. See `thirdparty/physfs/LICENSE` for details.
+- Handmade Math: Public domain. See `thirdparty/handmademath/LICENSE` for details.
+- Bx: Licensed under the BSD License. See `thirdparty/bgfx/LICENSE` for details.
+

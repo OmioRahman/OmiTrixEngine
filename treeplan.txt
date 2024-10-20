@@ -1,0 +1,70 @@
+OmiTrix/
+├── assets/
+├── bin/
+├── build/
+├── docs/
+├── editor/
+├── engine_core/
+│   ├── input/
+│   │   ├── input_manager.cpp
+│   │   ├── input_manager.hpp
+│   ├── audio/
+│   │   ├── soloud_manager.cpp
+│   │   ├── soloud_manager.hpp
+│   ├── graphics/
+│   │   ├── bgfx_manager.cpp
+│   │   ├── bgfx_manager.hpp
+│   │   ├── renderer.cpp
+│   │   ├── renderer.hpp
+│   ├── physics/
+│   │   ├── physics_manager.cpp
+│   │   ├── physics_manager.hpp
+│   ├── network/
+│   │   ├── network_manager.cpp
+│   │   ├── network_manager.hpp
+│   ├── event/
+│   │   ├── event_manager.cpp
+│   │   ├── event_manager.hpp
+│   ├── utils/
+│   │   ├── logger.cpp
+│   │   ├── logger.hpp
+│   ├── scripting/
+│       ├── script_manager.cpp
+│       ├── script_manager.hpp
+│       ├── python/
+│       │   ├── python_bindings.cpp
+│       │   ├── example_script.py
+│       ├── node_based/
+│           ├── node.cpp
+│           ├── node.hpp
+│           ├── node_editor.cpp
+│           ├── node_editor.hpp
+├── include/
+├── logs/
+├── objects/
+├── platform/
+├── plugins/
+├── resources/
+├── scene/
+├── scripts/
+│   ├── python/
+│   ├── node_system/
+├── shaders/
+├── src/
+│   ├── main.cpp
+│   ├── engine_core/
+│       ├── scripting/
+│       ├── bindings/
+│           ├── python_bindings.cpp
+│           ├── python_bindings.hpp
+├── tests/
+├── third_party/
+│   ├── bgfx/
+│   ├── jolt/
+│   ├── imgui/
+│   ├── soloud/
+│   ├── tinyxml2/
+│   ├── assimp/
+│   ├── box2dlite/
+│   ├── stb/
+├── tools/
